@@ -2,7 +2,7 @@
 ---
 ####Snapshot
 
-![image](https://github.com/zfireear/NewsApp/gif/Capture-01.gif)
+![image](https://github.com/zfireear/NewsApp/blob/master/gif/Capture-01.gif)
 
 ####Usages
 > * 显示新闻列表概览
